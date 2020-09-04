@@ -328,3 +328,7 @@ main > section {
 .sociales ul li span{
     display: none;
 }
+
+.ocultaDiv{
+    visibility: hidden;
+}
